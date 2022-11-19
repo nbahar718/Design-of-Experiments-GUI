@@ -7,4 +7,4 @@
 3. Click on "Open CSV File" button to navigate to and choose the updated CSV file.   
 4. Click on "Open Excel File" button to navigate to and choose the Excel file where you need the design output.   
 5. Check on all the required DOE methods from the defined list. 
-6. Click on "Confirm DOE Methods and Open Output File" button to get the updated Excel file with each DOE method defined on a separate Excel worksheet.
+6. Click on "Confirm DOE Methods and Open Excel File" button to get the updated Excel file with each DOE method defined on a separate Excel worksheet.
